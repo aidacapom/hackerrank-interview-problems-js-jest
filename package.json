@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "@types/jest": "^27.0.2"
+  }
+}
