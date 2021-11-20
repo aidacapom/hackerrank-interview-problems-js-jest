@@ -1,2 +1,3 @@
-# hackerrank-interview-problems-js-jest
+# Hackerrank Interview Problems with JavaScript and Jest
+
  
